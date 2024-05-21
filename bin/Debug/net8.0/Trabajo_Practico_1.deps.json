@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Trabajo_Practico_1/1.0.0": {
+        "runtime": {
+          "Trabajo_Practico_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabajo_Practico_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
